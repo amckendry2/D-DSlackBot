@@ -5,9 +5,7 @@ The bot is accessed using slash commands in a Slack chat. The bot reads and upda
 
 Images of example usage:
 
-![alt text](https://i.ibb.co/NN7pdrF/image0-1.png)
-![alt text](https://i.ibb.co/j4gdxGP/image0.png)
-![alt text](https://i.ibb.co/dcvW7Sb/image1.png)
-
-
+![alt text](https://i.ibb.co/2NNLV8W/image0-2.png)
+![alt text](https://i.ibb.co/9G8rz40/image0-3.png)
+![alt text](https://i.ibb.co/z27NhZ4/image1-2.png
 
