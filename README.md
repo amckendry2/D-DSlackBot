@@ -7,5 +7,5 @@ Images of actual usage:
 
 ![alt text](https://i.ibb.co/2NNLV8W/image0-2.png)
 ![alt text](https://i.ibb.co/9G8rz40/image0-3.png)
-![alt text](https://i.ibb.co/z27NhZ4/image1-2.png
+![alt text](https://i.ibb.co/z27NhZ4/image1-2.png)
 
