@@ -1,5 +1,7 @@
 # DnDSlackBot
-Google Sheets API for running D&amp;D games via Slack
+Prototype Google Sheets API for running D&amp;D games via Slack
+
+The bot is accessed using slash commands in a Slack chat. The bot reads and update a Google Sheet containing character stats, and returns a message containing the action results. 
 
 Images of example usage:
 
