@@ -2,7 +2,7 @@
 Prototype Google Sheets API for running D&amp;D games via Slack
 
 The bot is accessed using slash commands in a Slack chat. The bot reads and updates Google Sheets containing various character stats, simulates dice rolls, and returns a message containing the results of the requested action. I created this for a text-based D&D campaign being played by some friends.
-
+<pre>
 *COMMAND TEMPLATE*: {slash command} [required params] (optional params)
 
 *BASIC ROLL* 
@@ -44,7 +44,7 @@ The bot is accessed using slash commands in a Slack chat. The bot reads and upda
 /:tipfedora [character]                                         ->   DM awards character an inspiration point    
 /:useinspiration [character]                                    ->   character uses an inspiration point    
 /:status [character]                                            ->   check character s status\n"   
-
+</pre>
 
 Images of actual usage:
 
