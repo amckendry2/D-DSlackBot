@@ -52,20 +52,18 @@ The bot is accessed using slash commands in a Slack chat. The bot reads and upda
 
 **OPTIONAL POINTS** 
 <pre>
-/:addpoints      [character] [points]                                          ->   add points to character\ s optional stat pool    
-/:usepoints      [character] [points]                                          ->   subtract points from character\ s optional stat pool    
-/:maxpoints      [character]                                                   ->   restore character\ s opttional stat pool to max   
+/:addpoints      [character] [points]                                          ->   add points to character's optional stat pool    
+/:usepoints      [character] [points]                                          ->   subtract points from character's optional stat pool    
+/:maxpoints      [character]                                                   ->   restore character's opttional stat pool to max   
 </pre>
 
 **INSPIRATION** 
 <pre>
 /:tipfedora      [character]                                                   ->   DM awards character an inspiration point    
 /:useinspiration [character]                                                   ->   character uses an inspiration point    
-/:status         [character]                                                   ->   check character s status\n"   
+/:status         [character]                                                   ->   check character s status   
 </pre>
-                                                                                                                                                                                                                            1,1           All
-
-
+                                                                                                                                                                   
 Images of actual usage:
 
 ![alt text](https://i.ibb.co/2NNLV8W/image0-2.png)
