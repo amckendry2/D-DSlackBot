@@ -5,7 +5,7 @@ The bot is accessed using slash commands in a Slack chat. The bot reads and upda
 
 **COMMAND TEMPLATE**: 
 <pre>
-/:slash command [required params] (optional params) ("literal optional param") (:optional end params)
+/:slash command [required params] (optional params) ("literal optional param") (:optional end param)
 </pre>
 
 **BASIC ROLL**
