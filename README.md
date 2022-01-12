@@ -61,7 +61,11 @@ The API is accessed using slash commands in a Slack chat. The API reads and upda
 <pre>
 /:tipfedora      [character]                                                   ->   DM awards character an inspiration point    
 /:useinspiration [character]                                                   ->   character uses an inspiration point    
-/:status         [character]                                                   ->   check character s status   
+</pre>
+
+**STATUS**
+<pre>
+/:status         [character]                                                   ->   check character's status   
 </pre>
                                                                                                                                                                    
 Images of actual usage:
