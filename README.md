@@ -54,7 +54,7 @@ The API is accessed using slash commands in a Slack chat. The API reads and upda
 <pre>
 /:addpoints      [character] [points]                                          ->   add points to character's optional stat pool    
 /:usepoints      [character] [points]                                          ->   subtract points from character's optional stat pool    
-/:maxpoints      [character]                                                   ->   restore character's opttional stat pool to max   
+/:maxpoints      [character]                                                   ->   restore character's optional stat pool to max   
 </pre>
 
 **INSPIRATION** 
