@@ -1,7 +1,7 @@
 # DnDSlack
 Prototype Google Sheets API for running D&amp;D games via Slack
 
-The API is accessed using slash commands in a Slack chat. The API reads and updates Google Sheets containing various character stats, simulates dice rolls, and returns a message containing the results of the requested action. I created this to assist in running a text-based D&D campaign being played by some friends of mine.
+The API is accessed using slash commands in a Slack chat. The API reads and updates Google Sheets pages containing various character stats, simulates dice rolls, and returns a message containing the results of the requested action. I created this to assist in running a text-based D&D campaign being played by some friends of mine.
 
 **COMMAND TEMPLATE**: 
 <pre>
